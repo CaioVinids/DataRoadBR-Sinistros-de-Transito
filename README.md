@@ -28,6 +28,40 @@ Transformar dados brutos de sinistros rodoviários em informações estratégica
 
 * **Volume de Ocorrências**: Foram registrados 72 mil acidentes no período selecionado (2025), apresentando uma leve redução de 0,90% em relação ao ano anterior.
 * **Fatores Humanos**: A "Ausência de reação do condutor" e a "Reação tardia ou ineficiente" figuram como as principais causas de acidentes, superando fatores como ingestão de álcool.
+* **Concentração Geográfica**: O estado de Minas Gerais (MG) apresenta o maior volume de fatalidades no ranking nacional, seguido por estados como Paraná (PR) e Bahia (BA).
+* **Sazonalidade**: A análise temporal revela picos de acidentes em determinados meses, como dezembro, permitindo o planejamento de operações sazonais de fiscalização.
+* **Perfil de Vítimas**: Homens representam a vasta maioria dos envolvidos em sinistros (mais de 63%), indicando um público-alvo prioritário para campanhas de conscientização.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Power BI (Visualização e Dashboard)
+- DAX (Cálculo de medidas de inteligência de tempo e variação)
+- Power Query (Tratamento, limpeza de valores nulos e agrupamento de categorias)
+
+---
+
+## 📈 Principais Indicadores (KPIs)
+
+Foram desenvolvidas medidas em DAX para cálculo dos principais indicadores, incluindo:
+- Total de Acidentes: Volume bruto de ocorrências registradas.
+- Total de Mortos: Soma de fatalidades ocorridas no local do sinistro.
+- % Letalidade: Proporção de acidentes que resultaram em óbitos.
+- Variação Acidentes %: Comparativo percentual de acidentes em relação ao ano anterior.
+
+---
+
+## 📊 Análises Desenvolvidas
+Top 10 - Causas: Gráfico de barras horizontais para fácil leitura de descrições longas.
+
+Evolução Mensal: Gráfico de linhas comparando o ano atual com o ano anterior para identificar tendências.
+
+Top 10 - Fatalidades por Estado: Identificação dos estados críticos em termos de segurança viária.
+
+Perfil por Gênero: Visualização de rosca para análise demográfica simplificada (Masculino, Feminino, Não Informado).
+
+Menu de Filtros Lateral: Navegação intuitiva por Ano, Mês, UF, Causa e Condição Climática.
 
 ---
 
