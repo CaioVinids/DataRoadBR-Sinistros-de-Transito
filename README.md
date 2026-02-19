@@ -21,4 +21,4 @@ Transformar dados brutos de sinistros rodoviários em informações estratégica
 ## 🔍 Principais Insights
 
 * **Volume de Ocorrências**: Foram registrados 72 mil acidentes no período selecionado (2025), apresentando uma leve redução de 0,90% em relação ao ano anterior.
-* **Fatores Humanos**: A "Ausência de reação do condutor" e a "Reação tardia ou ineficiente" figuram como as principais causas de acidentes, superando fatores como ingestão de álcool [cite: image_808f51.png, image_
+* **Fatores Humanos**: A "Ausência de reação do condutor" e a "Reação tardia ou ineficiente" figuram como as principais causas de acidentes, superando fatores como ingestão de álcool.
