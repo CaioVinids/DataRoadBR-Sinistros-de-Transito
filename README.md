@@ -30,3 +30,21 @@ Transformar dados brutos de sinistros rodoviários em informações estratégica
 * **Fatores Humanos**: A "Ausência de reação do condutor" e a "Reação tardia ou ineficiente" figuram como as principais causas de acidentes, superando fatores como ingestão de álcool.
 
 ---
+
+## 📁 Estrutura do Projeto
+
+- data/ → Bases de dados em Excel
+- powerbi/ → Arquivo do dashboard em Power BI (.pbix)
+- docs/ → Documentação e imagens do projeto
+
+---
+
+## 📌 Contexto
+
+Projeto desenvolvido no contexto acadêmico, com foco na aplicação prática de conceitos de Análise de Dados, modelagem, DAX e visualização, simulando um cenário real de análise gerencial no contexto de sinistros de trânsito.
+
+---
+
+## 🖼️ Preview do Dashboard
+
+![Dashboard](ProjetoA3/docs/dashboard.png)
