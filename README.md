@@ -77,4 +77,4 @@ Projeto desenvolvido no contexto acadêmico, com foco na aplicação prática de
 
 ## 🖼️ Preview do Dashboard
 
-![Dashboard](ProjetoA3/docs/dashboard.png)
+![Dashboard](docs/dashboard.png)
