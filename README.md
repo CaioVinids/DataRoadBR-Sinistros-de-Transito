@@ -57,7 +57,7 @@ Foram desenvolvidas medidas em DAX para cálculo dos principais indicadores, inc
 - Evolução Mensal: Gráfico de linhas comparando o ano atual com o ano anterior para identificar tendências.
 - Top 10 - Fatalidades por Estado: Identificação dos estados críticos em termos de segurança viária.
 - Perfil por Gênero: Visualização de pizza para análise demográfica simplificada (Masculino, Feminino, Não Informado).
-- Menu de Filtros Lateral: Navegação intuitiva por Ano, Mês, UF, Causa e Condição Climática.
+- Menu de Filtros Lateral: Navegação intuitiva por Ano, Mês, UF, Causa Acidente e Condição Climática.
 
 ---
 
